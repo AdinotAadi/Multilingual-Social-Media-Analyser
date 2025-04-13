@@ -1,4 +1,4 @@
-venv\Script\activate
+venv\Scripts\activate
 
 uvicorn app:app --reload
 
